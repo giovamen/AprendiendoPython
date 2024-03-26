@@ -13,3 +13,14 @@ string1 = "Hello"
 string2 = "World"
 result = "{} {}".format(string1, string2)
 print(result)
+
+def add_numbers(num1, num2):
+    """
+    Esta función suma dos números y devuelve la suma
+    :p aram num1: primer número
+    :p aram num2: segundo número
+    :return: suma
+    """
+    return num1 + num2
+
+print(add_numbers(2, 3))
