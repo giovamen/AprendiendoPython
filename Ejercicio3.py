@@ -1,6 +1,5 @@
 #concatena dos cadenas de texto
 
-
 string1 = "Hello"
 string2 = "World"
 result = string1 + " " + string2
